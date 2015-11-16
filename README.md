@@ -107,7 +107,7 @@ direnvがインストール済みであれば、cdするだけで[PythonzとVirt
 start.shでウェブサーバーのサンプルを実行します。
 
     git clone https://github.com/WHITEPLUS/how-to-start-python.git
-    cd python-env-sample
+    cd how-to-start-python
     ./start.sh # サーバーを起動してブラウザを開きます
 
 
